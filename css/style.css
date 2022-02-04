@@ -1,6 +1,6 @@
 /***** Configurações Gerais *****/
 body {
-    background: #f4f2ec url(../img/fundo.png) repeat-x;
+    background: #f4f2ec url(/img/fundo.png) repeat-x;
     font: 12px "Lucida Grande", "Lucida Sans Unicode", Arial, sans-serif;
 }
 
@@ -28,7 +28,7 @@ header {
 #logo h1 a {
     width: 248px;
 	height: 21px;
-    background: url(../img/logo.png) no-repeat;
+    background: url(/img/logo.png) no-repeat;
     text-indent: -3000px;
     display: block;
 }
@@ -158,7 +158,7 @@ input {
 
 #galeria a {
     display: block;
-    background: url(../img/fundo-foto.png) no-repeat;
+    background: url(/img/fundo-foto.png) no-repeat;
     float: left;
     padding: 20px 16px 16px 16.5px;
     margin: 10px 0px 0px 20px;
@@ -166,7 +166,7 @@ input {
 
 /*** Footer ***/
 footer {
-    background: url(../img/fundo-rodape.png) no-repeat top center;
+    background: url(/img/fundo-rodape.png) no-repeat top center;
     clear: both;
     text-align: center;
     padding: 20px 0px 30px 0px;
